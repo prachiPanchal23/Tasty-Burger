@@ -18,12 +18,12 @@ Modular File Structure
 
 # Getting Started
 1. Clone the repository:
-      git clone https://github.com/your-username/react-food-delivery-app.git
-      cd react-food-delivery-app/food-app
+   git clone https://github.com/your-username/react-food-delivery-app.git
+   cd react-food-delivery-app/food-app
 3. Install dependencies:
-      npm install
+   npm install
 5. Run the app:
-      npm start
+   npm start
    
 # Open in browser:
 Visit http://localhost:3000
