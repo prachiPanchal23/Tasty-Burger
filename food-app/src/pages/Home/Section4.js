@@ -14,25 +14,22 @@ function Section4() {
             <Col lg={6} className="px-5">
               <h2>Nothing brings people together like a good burger</h2>
               <p>
-                Semper lacus cursus porta primis ligula risus tempus and
-                sagittis ipsum mauris lectus laoreet purus ipsum tempor enim
-                ipsum porta justo integer ultrice aligula lectus aenean magna
-                and pulvinar purus at pretium gravida
+              Nothing brings people together like a good burger — it’s more than just food, it’s an experience. Whether you're gathering with friends or sharing a meal with family, our handcrafted burgers make every moment more delicious. Made fresh, served hot, and packed with flavor, every bite brings joy.
+
+
               </p>
               <ul>
                 <li>
                   <p>
-                    Fringilla risus, luctus mauris orci auctor purus euismod
-                    pretium purus pretium ligula rutrum tempor sapien
+                  Fresh ingredients and handcrafted recipes made with care
                   </p>
                 </li>
                 <li>
-                  <p>Quaerat sodales sapien euismod purus blandit</p>
+                  <p>Flavor-packed patties grilled to perfection</p>
                 </li>
                 <li>
                   <p>
-                    Nemo ipsam egestas volute turpis dolores ut aliquam quaerat
-                    sodales sapien undo pretium a purus mauris
+                  A place where great taste meets great company
                   </p>
                 </li>
               </ul>

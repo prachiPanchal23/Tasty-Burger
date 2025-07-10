@@ -10,17 +10,17 @@ const mockData = [
   {
     image: Pizza,
     title: "Original",
-    paragraph: `Porta semper lacus cursus, feugiat primis ultrice a ligula risus auctor an tempus feugiat dolor lacinia cubilia curae integer orci congue and metus integer primis in integer metus`,
+    paragraph: `Our recipes are crafted with originality in every bite. We don’t just make burgers – we create bold, one-of-a-kind flavors that set us apart from the rest.`,
   },
   {
     image: Salad,
     title: "Qualty Foods",
-    paragraph: `Porta semper lacus cursus, feugiat primis ultrice a ligula risus auctor an tempus feugiat dolor lacinia cubilia curae integer orci congue and metus integer primis in integer metus`,
+    paragraph: `Only the freshest ingredients make it to your plate. From crisp veggies to premium patties, our commitment to quality is what makes every burger unforgettable.`,
   },
   {
     image: Delivery,
     title: "Fastest Delivery",
-    paragraph: `Porta semper lacus cursus, feugiat primis ultrice a ligula risus auctor an tempus feugiat dolor lacinia cubilia curae integer orci congue and metus integer primis in integer metus`,
+    paragraph: `Craving satisfaction in minutes? We’ve got you. Our lightning-fast delivery ensures your food is hot, fresh, and right on time – every time.`,
   },
   // Add more mock data objects as needed
 ];
@@ -34,9 +34,7 @@ function Section2() {
             <Col lg={{ span: 8, offset: 2 }} className="text-center">
               <h2>The burger tastes better when you eat it with your family</h2>
               <p>
-                Porta semper lacus cursus, feugiat primis ultrice a ligula risus
-                auctor an tempus feugiat dolor lacinia cubilia curae integer
-                orci congue and metus integer primis in integer metus
+              Nothing brings people together like great food. Whether it's a weekend dinner or a quick catch-up, our burgers turn mealtime into moments of joy. Made with care and packed with flavor, they’re best enjoyed with the ones you love.
               </p>
               <Link to="/" className="btn order_now btn_red">
                 Explore Full Menu

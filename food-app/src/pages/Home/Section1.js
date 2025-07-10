@@ -24,10 +24,7 @@ const Section1 = () => {
               <h1 className="text-white">New Burger</h1>
               <h2 className="text-white">With Onion</h2>
               <p className="text-white pt-2 pb-4">
-                Feugiat primis ligula risus auctor laoreet augue egestas mauris
-                viverra tortor in iaculis pretium at magna mauris ipsum primis
-                rhoncus feugiat
-              </p>
+              Try our New Burger with Onion – a delicious blend of juicy grilled patty, crispy onions, and bold flavors in every bite. It’s the perfect mix of crunch and taste, made to satisfy your cravings and leave you wanting more.              </p>
               <Link to="/" className="btn order_now">
                 Order Now
               </Link>

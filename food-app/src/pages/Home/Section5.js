@@ -23,8 +23,10 @@ function Section5() {
               <h4>Download mobile App and</h4>
               <h2>save up to 20%</h2>
               <p>
-                Aliquam a augue suscipit, luctus neque purus ipsum and neque
-                dolor primis libero tempus, blandit varius
+              Download our mobile app and save up to 20% on your next order!<br />
+Enjoy exclusive app-only deals, faster checkout, and real-time order trackingall in one place.
+
+
               </p>
               <Link to="/">
                 <img
